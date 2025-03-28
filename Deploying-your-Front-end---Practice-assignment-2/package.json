@@ -1,5 +1,5 @@
 {
-  "name": "my-contact-app",
+  "name": "deploying-your-front-end---practice-assignment-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
